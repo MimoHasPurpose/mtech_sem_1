@@ -1,8 +1,8 @@
-Notice board:
-aiml lab:
-knn:
-use knn to predict on iris dataset.
-why train test validation
-first validation→ testing
-confusion matrix, precision, recall , f1 score, aoc curve→ performance matrix
-type1 type 2 error
+## Mtech semester 01
+
+subjects:
+
+1. AIML
+2. ANN
+3. Research Ethics
+4. Research Methodology
