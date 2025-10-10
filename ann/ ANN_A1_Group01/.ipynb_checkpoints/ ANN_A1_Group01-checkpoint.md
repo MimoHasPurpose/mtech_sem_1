@@ -1,8 +1,0 @@
-# Solution
-
-
-# Result
-
-
-
-# Output
